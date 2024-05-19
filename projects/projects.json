@@ -1,0 +1,60 @@
+[
+    {
+      "name": "College Chatting App",
+      "desc": "Revolutionizing campus communication with a cutting-edge College Chatting App, fostering seamless interaction and collaboration among students.",
+      "image": "chat",
+      "category": "mern",
+      "links": {
+        "view": "https://multi-layer-blog-by-tanishka.blogspot.com/2024/03/mastering-multi-layered-security.html"
+      }
+    },
+    {
+      "name": "Event Management Website",
+      "desc": "Developing an interactive event management platform to efficiently coordinate and enhance every event experience.",
+      "image": "event",
+      "category": "mern",
+      "links": {
+        "view": "https://flipkartwebs.herokuapp.com/"
+      }
+    },
+    {
+      "name": "Lung Cancer Detection",
+      "desc": "Utilizing advanced AI algorithms, we strive to revolutionize lung cancer detection for early intervention and improved patient outcomes.",
+      "image": "lung",
+      "category": "mern",
+      "links": {
+        "view": "https://resumegenx.netlify.app/"
+      }
+    },
+    {
+      "name": "Facial Emotion Recognition",
+      "desc": "Facial emotion recognition technology utilizes advanced algorithms to analyze facial expressions and accurately identify human emotions.",
+      "image": "facial",
+      "category": "mern",
+      "links": {
+        "view": "https://reactjsprojects.herokuapp.com/",
+        "code": "https://github.com/jigar-sable/React-Projects"
+      }
+    },
+    {
+      "name": "Emotion Detection using EEG",
+      "desc": "Utilizing EEG signals to pioneer emotion detection in real-time software applications.",
+      "image": "braint",
+      "category": "lamp",
+      "links": {
+        "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+        "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      }
+    },
+    {
+      "name": "News Article Summarizer",
+      "desc": "Transforming how we consume information, an automated news article summarizer provides succinct insights readily accessible to users.",
+      "image": "news",
+      "category": "basicweb",
+      "links": {
+        "view": "https://jigar-sable.github.io/JavaScript-Projects",
+        "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      }
+    }
+  ]
+  
