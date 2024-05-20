@@ -14,7 +14,7 @@
       "image": "event",
       "category": "mern",
       "links": {
-        "view": "https://flipkartwebs.herokuapp.com/"
+        "view": "https://github.com/Pawan2oo1/MediAI.git"
       }
     },
     {
@@ -41,8 +41,7 @@
       "image": "braint",
       "category": "lamp",
       "links": {
-        "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-        "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+        "view": "https://github.com/Pawan2oo1/EEG-Brainwave.git"
       }
     },
     {
@@ -51,8 +50,7 @@
       "image": "news",
       "category": "basicweb",
       "links": {
-        "view": "https://jigar-sable.github.io/JavaScript-Projects",
-        "code": "https://github.com/jigar-sable/JavaScript-Projects"
+        "view": "https://github.com/Pawan2oo1/New-text-Summarizer.git"
       }
     }
   ]
