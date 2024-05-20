@@ -10,7 +10,7 @@
     },
     {
       "name": "MediAI",
-      "desc": "Developing an interactive event management platform to efficiently coordinate and enhance every event experience.",
+      "desc": "MediAI is a healthcare technology platform using AI and ML to optimize medical services, enhance patient outcomes, streamline workflows, and support clinical decisions.",
       "image": "event",
       "category": "mern",
       "links": {
